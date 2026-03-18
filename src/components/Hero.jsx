@@ -11,7 +11,7 @@ const Hero = () => {
           <span className="highlight">Design</span> Experience
         </h1>
         <p className="hero-description">
-          I'm Tanvir, a creative Product Designer. I've been helping businesses 
+          I'm Fitri Aulia, a creative Product Designer. I've been helping businesses 
           to solve their problems with my design for 2 years.
         </p>
         <div className="hero-actions">
