@@ -5,31 +5,31 @@ const Testimonials = () => {
   const reviews = [
     {
       id: 1,
-      text: "We will also facilitate the business marketing of these products with our SEO experts so that they become a ready to use website and help sell product from company.",
+      text: "Kami juga akan memfasilitasi pemasaran bisnis produk-produk ini dengan ahli SEO kami sehingga menjadi situs web yang siap digunakan dan membantu menjual produk dari perusahaan.",
       name: "Amir Uddin",
-      role: "UX Designer",
+      role: "Desainer UX",
     },
     {
       id: 2,
-      text: "We will also facilitate the business marketing of these products with our SEO experts so that they become a ready to use website and help sell product from company.",
+      text: "Kami juga akan memfasilitasi pemasaran bisnis produk-produk ini dengan ahli SEO kami sehingga menjadi situs web yang siap digunakan dan membantu menjual produk dari perusahaan.",
       name: "Salim Ahmed",
-      role: "UI Designer",
+      role: "Desainer UI",
     },
     {
       id: 3,
-      text: "We will also facilitate the business marketing of these products with our SEO experts so that they become a ready to use website and help sell product from company.",
+      text: "Kami juga akan memfasilitasi pemasaran bisnis produk-produk ini dengan ahli SEO kami sehingga menjadi situs web yang siap digunakan dan membantu menjual produk dari perusahaan.",
       name: "Guy Hawkins",
-      role: "UI Designer",
+      role: "Desainer UI",
     }
   ];
 
   return (
     <section className="testimonials" id="testimonial">
       <div className="testimonials-header">
-        <span className="section-subtitle">Reviews</span>
+        <span className="section-subtitle">Ulasan</span>
         <h2 className="section-title">
-          Our Customer Say <br />
-          Something <span className="highlight-text">About Us</span>
+          Apa Kata Pelanggan <br />
+          <span className="highlight-text">Tentang Kami</span>
         </h2>
       </div>
 

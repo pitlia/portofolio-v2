@@ -5,16 +5,16 @@ const Skills = () => {
   return (
     <section className="skills" id="skills">
       <div className="skills-content">
-        <span className="section-subtitle">My Skills</span>
+        <span className="section-subtitle">Keahlian Saya</span>
         <h2 className="section-title">
-          Why Hire Me For Your <br />
-          Next <span className="highlight-text">Project?</span>
+          Mengapa Mempekerjakan Saya Untuk <br />
+          <span className="highlight-text">Proyek</span> Anda Selanjutnya?
         </h2>
         <p className="skills-description">
-          I'm specialist in UI/UX Design. My passion is designing & solving
-          problems through user experience and research.
+          Saya spesialis di Desain UI/UX. Gairah saya adalah merancang & memecahkan
+          masalah melalui penelitian dan pengalaman pengguna.
         </p>
-        <button className="btn btn-primary">Hire Me</button>
+        <button className="btn btn-primary">Pekerjakan Saya</button>
       </div>
 
       <div className="skills-cards">
@@ -22,9 +22,9 @@ const Skills = () => {
           <div className="icon-wrapper">
             <span className="icon">💎</span>
           </div>
-          <h3 className="card-title">Visual Design</h3>
+          <h3 className="card-title">Desain Visual</h3>
           <p className="card-desc">
-            Create user interface design with unique & modern ideas
+            Membuat desain antarmuka pengguna dengan ide unik & modern
           </p>
         </div>
 
@@ -32,9 +32,9 @@ const Skills = () => {
           <div className="icon-wrapper">
             <span className="icon">📄</span>
           </div>
-          <h3 className="card-title">UX Research</h3>
+          <h3 className="card-title">Riset UX</h3>
           <p className="card-desc">
-            Create digital user products with updated ideas
+            Menciptakan produk digital pengguna dengan ide-ide terbaru
           </p>
         </div>
 
@@ -42,9 +42,9 @@ const Skills = () => {
             <div className="icon-wrapper">
             <span className="icon">📈</span>
           </div>
-          <h3 className="card-title">Design Prototype</h3>
+          <h3 className="card-title">Prototipe Desain</h3>
           <p className="card-desc">
-            Create advance design prototype with figma apps.
+            Membuat prototipe desain tingkat lanjut dengan aplikasi figma.
           </p>
         </div>
       </div>

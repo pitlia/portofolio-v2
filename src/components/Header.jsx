@@ -10,14 +10,14 @@ const Header = () => {
       </div>
       
       <nav className="nav-links">
-        <a href="#about" className="nav-link">About</a>
-        <a href="#skills" className="nav-link">Skills</a>
-        <a href="#portfolio" className="nav-link">Portfolio</a>
-        <a href="#testimonial" className="nav-link">Testimonial</a>
+        <a href="#about" className="nav-link">Tentang</a>
+        <a href="#skills" className="nav-link">Keahlian</a>
+        <a href="#portfolio" className="nav-link">Portofolio</a>
+        <a href="#testimonial" className="nav-link">Testimoni</a>
       </nav>
       
       <div className="header-actions">
-        <button className="btn btn-outline download-cv">Download CV</button>
+        <button className="btn btn-outline download-cv">Unduh CV</button>
       </div>
     </header>
   );

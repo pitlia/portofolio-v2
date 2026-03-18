@@ -5,8 +5,8 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p className="footer-text">© 2024. All Rights Reserved</p>
-        <p className="footer-text">Designed by Fitri Aulia</p>
+        <p className="footer-text">© 2024. Hak Cipta Dilindungi</p>
+        <p className="footer-text">Didesain oleh Fitri Aulia</p>
         <div className="footer-socials">
           <a href="#" className="footer-icon">f</a>
           <a href="#" className="footer-icon">t</a>

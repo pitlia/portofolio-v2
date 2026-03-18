@@ -5,12 +5,12 @@ const Contact = () => {
   return (
     <section className="contact" id="contact">
       <div className="contact-header">
-        <span className="section-subtitle">Contact</span>
+        <span className="section-subtitle">Kontak</span>
         <h2 className="section-title">
-          Let's Discuss Your <span className="highlight-text">Project</span>
+          Mari Diskusikan <span className="highlight-text">Proyek</span> Anda
         </h2>
         <p className="contact-description">
-          Let's make something new, different and more meaningful or make thing more visual or conceptual.
+          Mari buat sesuatu yang baru, berbeda dan lebih bermakna atau buat sesuatu yang lebih visual dan konseptual.
         </p>
       </div>
 
@@ -21,7 +21,7 @@ const Contact = () => {
               <span className="icon">📞</span>
             </div>
             <div className="info-content">
-              <h4>Call me</h4>
+              <h4>Hubungi saya</h4>
               <p>+62 877-3909-7660</p>
             </div>
           </div>
@@ -41,7 +41,7 @@ const Contact = () => {
               <span className="icon">📍</span>
             </div>
             <div className="info-content">
-              <h4>Address</h4>
+              <h4>Alamat</h4>
               <p>Pamekasan, Jawa Timur, Indonesia</p>
             </div>
           </div>
@@ -50,16 +50,16 @@ const Contact = () => {
         <div className="contact-form-container">
           <form className="contact-form" onSubmit={(e) => e.preventDefault()}>
             <div className="form-row">
-              <input type="text" placeholder="Full name" className="form-input" />
-              <input type="email" placeholder="Your email" className="form-input" />
+              <input type="text" placeholder="Nama lengkap" className="form-input" />
+              <input type="email" placeholder="Email Anda" className="form-input" />
             </div>
             <div className="form-row">
-              <input type="tel" placeholder="Phone number" className="form-input" />
-              <input type="text" placeholder="Budget" className="form-input" />
+              <input type="tel" placeholder="Nomor telepon" className="form-input" />
+              <input type="text" placeholder="Anggaran" className="form-input" />
             </div>
-            <textarea placeholder="Message" className="form-input form-textarea"></textarea>
+            <textarea placeholder="Pesan" className="form-input form-textarea"></textarea>
             <div className="form-submit">
-              <button type="submit" className="btn btn-primary">Submit Message</button>
+              <button type="submit" className="btn btn-primary">Kirim Pesan</button>
             </div>
           </form>
           

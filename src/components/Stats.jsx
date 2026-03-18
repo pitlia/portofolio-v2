@@ -6,21 +6,21 @@ const Stats = () => {
     <section className="stats">
       <div className="stat-item">
         <h2 className="stat-number">80+</h2>
-        <p className="stat-text">Satisfied clients</p>
+        <p className="stat-text">Klien puas</p>
       </div>
       
       <div className="stat-divider"></div>
       
       <div className="stat-item">
         <h2 className="stat-number">200+</h2>
-        <p className="stat-text">Projects completed</p>
+        <p className="stat-text">Proyek selesai</p>
       </div>
       
       <div className="stat-divider"></div>
       
       <div className="stat-item">
         <h2 className="stat-number">99+</h2>
-        <p className="stat-text">Reviews given</p>
+        <p className="stat-text">Ulasan diberikan</p>
       </div>
       
       {/* Background decoration dots */}

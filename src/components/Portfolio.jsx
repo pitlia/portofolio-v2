@@ -5,15 +5,15 @@ const Portfolio = () => {
   return (
     <section className="portfolio" id="portfolio">
       <div className="portfolio-content">
-        <span className="section-subtitle">Portfolio</span>
+        <span className="section-subtitle">Portofolio</span>
         <h2 className="section-title">
-          My Creative Works <br />
-          Latest <span className="highlight-text">Projects</span>
+          Karya Kreatif Saya <br />
+          <span className="highlight-text">Proyek</span> Terbaru
         </h2>
         <p className="portfolio-description">
-          I have selected and mentioned here some of my latest projects to share with you.
+          Saya telah memilih dan menyebutkan di sini beberapa proyek terbaru saya untuk dibagikan dengan Anda.
         </p>
-        <button className="btn btn-primary">Show More</button>
+        <button className="btn btn-primary">Tampilkan Lebih Banyak</button>
       </div>
 
       <div className="portfolio-gallery">

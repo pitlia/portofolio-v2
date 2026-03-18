@@ -5,19 +5,18 @@ const Hero = () => {
   return (
     <section className="hero" id="about">
       <div className="hero-content">
-        <div className="welcome-badge">Welcome</div>
+        <div className="welcome-badge">Selamat Datang</div>
         <h1 className="hero-title">
-          I have <span className="highlight">Creative</span> <br />
-          <span className="highlight">Design</span> Experience
+          Saya Memiliki <br />
+          Pengalaman <span className="highlight">Desain Kreatif</span>
         </h1>
         <p className="hero-description">
-          I'm Fitri Aulia, a creative Product Designer. I've been helping businesses 
-          to solve their problems with my design for 2 years.
+          Saya Fitri Aulia, seorang Desainer Produk yang kreatif. Saya telah membantu berbagai bisnis memecahkan masalah mereka melalui desain saya selama 2 tahun.
         </p>
         <div className="hero-actions">
-          <button className="btn btn-primary">Contact Me</button>
+          <button className="btn btn-primary">Hubungi Saya</button>
           <a href="#portfolio" className="portfolio-link">
-            View Portfolio ↗
+            Lihat Portofolio ↗
           </a>
         </div>
       </div>
@@ -30,7 +29,7 @@ const Hero = () => {
       </div>
       
       <div className="social-sidebar">
-        <span className="social-text">Follow me on</span>
+        <span className="social-text">Ikuti saya di</span>
         <div className="social-line"></div>
         <a href="#" className="social-icon" aria-label="Facebook">f</a>
         <a href="#" className="social-icon" aria-label="Instagram">ig</a>
