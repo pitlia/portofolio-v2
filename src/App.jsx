@@ -5,6 +5,7 @@ import Stats from './components/Stats';
 import Skills from './components/Skills';
 import Portfolio from './components/Portfolio';
 import Testimonials from './components/Testimonials';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Skills />
         <Portfolio />
         <Testimonials />
+        <Contact />
         {/* Sections will go here */}
       </main>
 
