@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Stats from './components/Stats';
 import Skills from './components/Skills';
 import Portfolio from './components/Portfolio';
+import Testimonials from './components/Testimonials';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Stats />
         <Skills />
         <Portfolio />
+        <Testimonials />
         {/* Sections will go here */}
       </main>
 
