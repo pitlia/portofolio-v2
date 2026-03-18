@@ -27,9 +27,4 @@ function App() {
   );
 }
 
-      {/* Footer will go here */}
-    </div>
-  );
-}
-
 export default App;
