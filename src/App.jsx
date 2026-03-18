@@ -2,6 +2,7 @@ import './App.css';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Stats from './components/Stats';
+import Skills from './components/Skills';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <main>
         <Hero />
         <Stats />
+        <Skills />
         {/* Sections will go here */}
       </main>
 
